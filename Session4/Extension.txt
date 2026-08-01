@@ -5,7 +5,6 @@ Auto Close Tag
 Path Intellisense
 Tailwind CSS IntelliSense
 ES7+ React/Redux/React-Native Snippets
-Error Lens
 GitLens — Git supercharged
 Material Icon Theme
 One Dark Pro
