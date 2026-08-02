@@ -1,0 +1,1 @@
+1. Input types : https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/button
