@@ -1,0 +1,15 @@
+/* 1. Element Selector : Select one element/tag at a time */
+p{
+    background-color: aqua;
+}
+
+article{
+    font-family:Verdana;
+}
+
+
+/*  2. Universal Selector : Select all */
+
+*{
+    font-weight: 900;
+}
