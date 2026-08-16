@@ -1,0 +1,36 @@
+/* 1. Element Selector : Select one element/tag at a time */
+p {
+  background-color: aqua;
+}
+
+article {
+  font-family: Verdana;
+}
+
+/*  2. Universal Selector : Select all */
+
+* {
+  font-weight: 900;
+}
+
+/* 3. Class Selector */
+
+/* 
+1. There can be multiple class name for a same tage 
+2. We can give same class name to more than 1 type of tag. 
+*/
+
+.target2 {
+  color: rgb(173, 173, 14);
+}
+
+.target1 {
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+/* 4. ID Selector : There can be only 1 id with that name*/
+#box2 {
+  background-color: red;
+}
