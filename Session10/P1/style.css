@@ -1,0 +1,31 @@
+/* 5. Grouping Selector */
+
+h1,div,article{
+    text-align: center;
+    font-weight: 700;
+}
+
+.box{
+    height:50px;
+    width:50px;
+    border:2px solid blue;
+    margin:10px;
+}
+
+/* 6. Descendant Selector */
+div.container div{
+    background-color: antiquewhite;
+}
+
+
+.box2{
+    height:50px;
+    width:50px;
+    border:2px solid rgb(8, 231, 74);
+    margin:10px;
+}
+
+/* 7. Child Selector  */
+div.container2> div{
+    background-color: cornflowerblue;
+}
