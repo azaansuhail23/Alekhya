@@ -1,0 +1,20 @@
+.target{
+    border:2px solid black;
+}
+
+.target1{
+    margin-top:100px;
+    margin-bottom:200px;
+    margin-right:50px;
+    margin-left:50px;
+}
+
+/* Short Hand Propert */
+
+.target3{
+    margin:100px 50px 100px 50px;
+}
+
+.target4{
+    margin:auto;
+}
