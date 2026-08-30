@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+span{
+    background-color: rgb(95, 169, 172);
+    margin:2px;
+    padding:5px;
+    border:3px solid red;
+}

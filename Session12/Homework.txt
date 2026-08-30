@@ -1,0 +1,4 @@
+1. Recall test from before sessoin 13
+2. Concept test from before session 13
+3. Learn & Read box-sizing:borde-box
+4. Create a portfolio  which include your name, your image, about section , gallery of your hobbies with link. 

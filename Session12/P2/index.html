@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Boxmodel</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            background-color: rgb(15, 147, 147);
+        }
+        .box1{
+            color: rgb(255, 55, 0);
+            padding: 10px;
+            margin:35px;
+            border: 2px solid blue;
+            height: 200px;
+            box-sizing: border-box; 
+            /* box-size:border box matlab padding and border milake height=200px hai means height includes padding and border agar hamm nhi likte border box to sirf akele content ki height 200px hoti */
+        }
+        .box2{
+            color:rgb(0, 26, 255);
+            padding: 10px;
+            margin:25px;
+            border: 2px solid black;
+            height: 200px;
+            box-sizing: border-box;
+            /* pehle div ki margin 35 or doosre div ki margin 25 hai toh in dono div ke beech mai 35+25=60 margin aani chaiye thei prr nhi aati because of border collapsing joh kehta hai ki sbse bari margin dominate karegi or single bari margin hei lagegei */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box box1">I am a box</div>
+    <div class="box box2">I am another box</div>
+</body>
+
+</html>
