@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:
+}
+
+
+.container{
+    box-sizing:border-box;
+    border:2px solid blue;
+    /* width:1080px; */
+    width:50vw;
+    height:75vh;
+    background-color: bisque;
+}
+
+.cont-1{
+    font-weight: 50%;
+}
+
+.container>div{
+    font-size:2em;
+    border:1px solid green;
+    width:70%;
+}
+
+/* 
+Sizing Units : 
+1.px --> 1/96th part of inch is pixel.
+2.vw
+3.vh
+4.em --> Relative to the parent
+5.rem --> Relative to the root 
+6.%
+
+ */

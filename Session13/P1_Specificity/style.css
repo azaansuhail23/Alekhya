@@ -1,0 +1,12 @@
+div.target{
+    color:rgb(215, 19, 52);
+}
+.target{
+    color:blue;
+    font-weight: 800;
+}
+
+
+/* <!--Inline Style > ID Selector > Class > Element Selector > Universal Selector --> */
+
+/* Read it : https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascade/Specificity */
