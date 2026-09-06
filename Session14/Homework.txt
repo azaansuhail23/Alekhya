@@ -1,0 +1,53 @@
+📝 CSS Homework: position Property
+Topic: relative, absolute, and fixed
+
+Difficulty: Medium
+Goal: Practice positioning elements using CSS without using Flexbox or Grid.
+
+🎯 Task: Build a "Sticky Support Card"
+
+Create a webpage for a college/student portal with the following requirements:
+
+HTML Requirements
+
+Create:
+
+A <header> containing the title "Student Portal"
+A main section containing a card with:
+Student Name
+Course Name
+Progress percentage
+A "New" badge
+A button labeled "Need Help?"
+Enough paragraphs/content so that the page becomes scrollable.
+CSS Requirements
+
+You must use all three positioning values:
+
+1. position: relative
+
+Use position: relative on the student card.
+
+The "New" badge should be positioned relative to the card.
+
+2. position: absolute
+
+Use position: absolute for the "New" badge.
+
+The badge should appear at the top-right corner of the student card.
+
+Example visual idea:
+
+┌──────────────────────────────────┐
+│                 NEW              │
+│                                  │
+│  Student: Azaan Suhail           │
+│  Course: Full Stack Development  │
+│  Progress: 75%                   │
+│                                  │
+└──────────────────────────────────┘
+3. position: fixed
+
+Use position: fixed for the "Need Help?" button.
+
+The button should remain visible in the bottom-right corner of the screen even when the page is scrolled.
