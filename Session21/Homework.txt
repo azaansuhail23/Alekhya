@@ -1,0 +1,7 @@
+1. Revise Full HTML using your notes + codes
+2. Revise Full CSS using your notes + codes
+3. Read CSS from the MDN topics like position properties : relative, absolute, sticky, fixed.
+4. Read sizing units from MDN --> px, rem, em, vh, vw,%
+5. FlexBox
+6. Margin, Padding, Box Model --> MDN
+7. Make a list of your doubts from session 1 to session 21
